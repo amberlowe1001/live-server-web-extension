@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ritwickdey/live-server-web-extension) 
+
 _[I'm sorry but I'm now super busy, If you want to be a maintainer of the project please feel me to contact me! You've to be passionate about programming]_
 
 # Live Server - Web Extension
